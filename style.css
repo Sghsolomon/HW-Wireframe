@@ -49,6 +49,9 @@ img{
 
 footer{clear: both;
     padding: 20px;
-    
+}
+
+footer, small{
+    text-align: center;
     
 }
