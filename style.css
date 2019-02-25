@@ -1,0 +1,54 @@
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+      color: rgba(15, 14, 14, 0.762);
+      background: rgb(168, 174, 168);
+      width: 960px;
+      font-size: 18px;
+      border: 1px solid black;
+      padding: 50px;
+      margin: 50px;
+}
+
+div{
+    background: rgb(238, 238, 232);
+}
+
+header{
+    background: rgb(56, 116, 148);
+    color: white;
+    width: 25%;
+    padding: 0 20px; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    overflow: auto;
+    float: left;
+}
+
+nav{
+    
+    float: right;
+    margin-right: 25px;
+}
+a{
+    padding: 10px
+}
+
+aside{
+    padding: 20px;
+}
+
+section{
+    clear: both;
+}
+
+img{
+    float: left;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+footer{clear: both;
+    padding: 20px;
+    
+    
+}
